@@ -73,7 +73,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
+    missingContentMessage = "Page not found."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
@@ -88,7 +88,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "YouTube"
         name = "YouTube"
-        url = "/youtube"
+        url = "https://www.youtube.com/channel/UCFpkf43dvLwBdA020ZdSK4g"
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About Me"

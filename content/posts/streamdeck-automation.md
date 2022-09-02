@@ -1,11 +1,11 @@
 +++
-title = "I Am the Storm"
-date = "2022-09-02T09:40:17-05:00"
+title = "Streamdeck Automation"
+date = "2022-09-02T12:16:36-05:00"
 author = "FatherFireball"
 authorTwitter = "FatherFireball" #do not include @
 cover = ""
-tags = ["dnd", "characters"]
-keywords = ["storm herald", "barbarian", "character ideas"]
+tags = ["tutorials"]
+keywords = ["streaming", "streamdeck", "elgato"]
 description = ""
 showFullContent = false
 readingTime = false
@@ -14,5 +14,3 @@ draft = true
 +++
 
 # >> INTRO
-
-# >> CHARACTER BACKSTORY

@@ -1,18 +1,14 @@
 +++
-title = "I Am the Storm"
-date = "2022-09-02T09:40:17-05:00"
+title = "Hollow Knight"
+date = "2022-09-02T12:38:48-05:00"
 author = "FatherFireball"
 authorTwitter = "FatherFireball" #do not include @
 cover = ""
-tags = ["dnd", "characters"]
-keywords = ["storm herald", "barbarian", "character ideas"]
+tags = ["reviews"]
+keywords = ["hollow knight", "game review"]
 description = ""
 showFullContent = false
 readingTime = false
 hideComments = false
 draft = true
 +++
-
-# >> INTRO
-
-# >> CHARACTER BACKSTORY

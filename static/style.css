@@ -1,0 +1,11 @@
+.post-cover {
+    width: 30%;
+    margin: auto;
+    display: block;
+}
+
+img {
+    width: 50%;
+    margin: auto;
+    display: block;
+}
