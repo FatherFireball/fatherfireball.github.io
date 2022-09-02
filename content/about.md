@@ -7,4 +7,4 @@ readingTime = false
 hideComments = false
 +++
 
-Hey y'all! I'm FatherFireball - techie, streamer, and all around nerd. 
+Hey y'all! I'm FatherFireball - techie, streamer, and all around nerd. I'm working on setting up the site - stay tuned for more updates!
