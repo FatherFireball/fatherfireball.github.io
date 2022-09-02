@@ -81,15 +81,23 @@ paginate = 5
       logoHomeLink = "/"
 
     [languages.en.menu]
+    [[languages.en.menu.main]]
+        identifier = "Home"
+        name = "Home"
+        url = "/"
+        weight = -200
       [[languages.en.menu.main]]
         identifier = "Twitch"
         name = "Twitch"
         url = "https://www.twitch.tv/fatherfireball"
+        weight = -150
       [[languages.en.menu.main]]
         identifier = "YouTube"
         name = "YouTube"
         url = "https://www.youtube.com/channel/UCFpkf43dvLwBdA020ZdSK4g"
+        weight = -100
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About Me"
         url = "/about"
+        weight = -50

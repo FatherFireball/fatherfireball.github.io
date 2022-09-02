@@ -8,7 +8,7 @@ tags = ["dnd", "characters"]
 keywords = ["storm herald", "barbarian", "character ideas"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 draft = true
 +++
