@@ -29,7 +29,7 @@ Welcome to our first character inspiration post!
 
 # >> CHARACTER BACKSTORY
 
-
+As a young Goliath, Thalmoor spent 
 
 # >> DM TO BUBS
 

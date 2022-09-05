@@ -31,3 +31,13 @@ asdfasdfasdfasdf
 
 # >> CHARACTER BACKSTORY
 
+# >> DMS
+
+so i had another idea for a character i want to do
+first, music
+https://youtu.be/bTHN1eWN7iU
+so as you listen - i want to do a tiefling gunslinger revenger. originally lived in a segregated tiefling village which was burned and them tortured by humans who hated the tieflings, thought they were devils. escaped as a child, took in by an outcast artificer who outfitted guns for them and taught them to shoot
+goal: find the group that burned the village and get revenge
+whole character idea came from stereotypical western + the line I am the righteous hand of God / I am the devil that you forgot
+lmk what you think
+i also want them to be a total hardass on the outside but absolute softie for those who earn their trust
