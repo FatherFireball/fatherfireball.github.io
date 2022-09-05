@@ -15,6 +15,8 @@ draft = true
 
 Welcome to our first character inspiration post! 
 
+{{< spotify type="track" id="6tUcFEXos6TGhESFlkAyCm" width="100%" height="80" >}}
+
 >* **Title/Inspired Name:** Thalmoor Stormhawk  
 >* **Race:** Goliath  
 >* **Gender:** Female  
