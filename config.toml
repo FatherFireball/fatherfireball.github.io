@@ -64,6 +64,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "FatherFireball"
+    image = "/images/FFBLogoStd.png"
     subtitle = ""
     owner = ""
     keywords = ""
