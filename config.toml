@@ -1,4 +1,4 @@
-baseurl = "https://fatherfireball.github.io"
+baseurl = "https://www.fatherfireball.com"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
