@@ -12,3 +12,11 @@ readingTime = false
 hideComments = false
 draft = true
 +++
+
+# >> INTRO
+
+Jump to video: [Reassessment]({{< ref "#-youtube" >}})
+
+# >> YOUTUBE VOD
+
+{{< youtube 091qsIMDYw0 >}}

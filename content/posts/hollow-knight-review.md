@@ -8,7 +8,7 @@ tags = ["reviews"]
 keywords = ["hollow knight", "game review"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
 draft = true
 +++
