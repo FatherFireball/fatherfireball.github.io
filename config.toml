@@ -59,12 +59,13 @@ paginate = 5
   # do not include @
   creator = "FatherFireball"
   site = "FatherFireball"
+  images = ["/images/FFBLogoStd.png"]
+  twitter_cards = true
 
 [languages]
   [languages.en]
     languageName = "English"
     title = "FatherFireball"
-    image = "/images/FFBLogoStd.png"
     subtitle = ""
     owner = ""
     keywords = ""
