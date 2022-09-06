@@ -1,5 +1,5 @@
 +++
-title = "Hollow Knight"
+title = "Hollow Knight Review"
 date = "2022-09-02T12:38:48-05:00"
 author = "FatherFireball"
 authorTwitter = "FatherFireball" #do not include @
