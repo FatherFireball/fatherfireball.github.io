@@ -12,7 +12,7 @@ paginate = 5
   themeColor = "orange"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -30,13 +30,13 @@ paginate = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   favicon = "/images/favicon/favicon.ico"
 
   # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
+  updatedDatePrefix = "Last updated"
 
   # set all headings to their default size (depending on browser settings)
   # oneHeadingSize = true # default
@@ -97,12 +97,12 @@ paginate = 5
         identifier = "Twitch"
         name = "Twitch"
         url = "https://www.twitch.tv/fatherfireball"
-        weight = -150
+        weight = 0
       [[languages.en.menu.main]]
         identifier = "YouTube"
         name = "YouTube"
         url = "https://www.youtube.com/channel/UCFpkf43dvLwBdA020ZdSK4g"
-        weight = -100
+        weight = 0
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About Me"
@@ -119,7 +119,7 @@ paginate = 5
         url = "/tags/dnd"
         weight = 0
       [[languages.en.menu.main]]
-        identifier = "Streaming"
-        name = "Streaming"
+        identifier = "StreamingPosts"
+        name = "Streaming Posts"
         url = "/tags/streaming"
         weight = 0

@@ -9,3 +9,11 @@ img {
     margin: auto;
     display: block;
 }
+
+em {
+    color: #ffa86a;
+}
+
+strong {
+    color: #ffa86a;
+}
