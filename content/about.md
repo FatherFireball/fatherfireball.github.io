@@ -7,6 +7,8 @@ readingTime = false
 hideComments = false
 +++
 
+{{< image src="/images/me_3.jpg" alt="FatherFireball looking at a laptop on a balcony." position="center" >}}
+
 Hey y'all! I'm FatherFireball - techie, streamer, and all around nerd. I've streamed on and off for about 6 years now in addition to being a husband and cat dad. 
 
 I play lots of things both on and off stream - Metroidvanias, Soulsborne games, Dungeons & Dragons, Rocket League, and more. I hope to entertain and keep everything light to give everyone a relaxing space to come chill.
