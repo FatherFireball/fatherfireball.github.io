@@ -15,7 +15,7 @@ draft = true
 
 # >> INTRO
 
-Jump to video: [Decoding Mysteries]({{< ref "#-youtube" >}})
+Jump to video: [Decoding Mysteries]({{< relref "#-youtube-vod" >}})
 
 # >> YOUTUBE VOD
 

@@ -1,5 +1,5 @@
 +++
-title = "Tunic Recap: Part Four"
+title = "Tunic Recap: Reassessment"
 date = "2022-09-06T14:51:29-05:00"
 author = ""
 authorTwitter = "" #do not include @
@@ -15,7 +15,7 @@ draft = true
 
 # >> INTRO
 
-Jump to video: [Reassessment]({{< ref "#-youtube" >}})
+Jump to video: [Reassessment]({{< relref "#-youtube-vod" >}})
 
 # >> YOUTUBE VOD
 

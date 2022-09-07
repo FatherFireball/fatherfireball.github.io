@@ -15,7 +15,7 @@ draft = true
 
 # >> INTRO
 
-Jump to video: [Journey to the West]({{< ref "#-youtube" >}})
+Jump to video: [Journey to the West]({{< relref "#-youtube-vod" >}})
 
 # >> YOUTUBE VOD
 

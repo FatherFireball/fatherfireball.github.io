@@ -36,4 +36,4 @@ Welcome to our first character inspiration post!
 # >> SCRATCHPAD
 
 based on papa emeritas
-deacon that abuses power in order to manipulate others
+deacon that raises the dead, very flashy in appearance
