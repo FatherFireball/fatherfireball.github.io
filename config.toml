@@ -59,7 +59,7 @@ paginate = 5
   # do not include @
   creator = "FatherFireball"
   site = "FatherFireball"
-  images = ["/images/FFBLogoStd.png"]
+  image = ["/images/FFBLogoStd.png"]
   description = "FFB's blog, character graveyard, and general rant receptacle."
 
 [languages]
