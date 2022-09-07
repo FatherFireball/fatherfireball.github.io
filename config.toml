@@ -60,7 +60,7 @@ paginate = 5
   creator = "FatherFireball"
   site = "FatherFireball"
   images = ["/images/FFBLogoStd.png"]
-  twitter_cards = true
+  description = "FFB's blog, character graveyard, and general rant receptacle."
 
 [languages]
   [languages.en]
