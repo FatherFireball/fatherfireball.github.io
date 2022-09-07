@@ -7,7 +7,7 @@ readingTime = false
 hideComments = false
 +++
 
-{{< image src="/images/me_3.jpg" alt="FatherFireball looking at a laptop on a balcony." position="center" >}}
+{{< image src="/images/me_3.jpg" alt="FatherFireball looking at a laptop on a balcony." position="center" style="width:25%" >}}
 
 Hey y'all! I'm FatherFireball - techie, streamer, and all around nerd. I've streamed on and off for about 6 years now in addition to being a husband and cat dad. 
 
