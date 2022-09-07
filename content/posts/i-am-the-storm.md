@@ -29,7 +29,7 @@ Welcome to our first character inspiration post!
 
 # >> CHARACTER BACKSTORY
 
-As a young Goliath, Thalmoor spent 
+Thalmoor spent most of her childhood being raised by the wilderness in the Emeritas mountain range. 
 
 # >> DM TO BUBS
 
