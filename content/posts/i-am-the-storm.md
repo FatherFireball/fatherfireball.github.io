@@ -62,3 +62,5 @@ From that day forward, the mountaintop druidic circle began their nomadic lifest
 This is the beginning of the tale of Thalmoor Stormhawk.
 
 _I am the storm that is approaching / Provoking black clouds in isolation / I am reclaimer of my name_
+
+{{< image src="/images/posts/i-am-the-storm/storm-hands.gif" alt="An old video showing someone whose hands are in the air during a storm." position="center" >}}
