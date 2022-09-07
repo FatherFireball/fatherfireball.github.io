@@ -109,11 +109,6 @@ paginate = 5
         url = "/about"
         weight = -50
       [[languages.en.menu.main]]
-        identifier = "Tags"
-        name = "Posts by Tag"
-        url = "/tags"
-        weight = 0
-      [[languages.en.menu.main]]
         identifier = "DND"
         name = "D&D Posts"
         url = "/tags/dnd"
