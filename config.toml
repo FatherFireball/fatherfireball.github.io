@@ -59,16 +59,16 @@ paginate = 5
   # do not include @
   creator = "FatherFireball"
   site = "FatherFireball"
-  images = ["/images/FFBLogoStd.png"]
-  description = "FFB's blog, character graveyard, and general rant receptacle."
+  images = ["https://fatherfireball.com/images/FFBLogoStd.png"]
+  description = "FFB's blog, D&D character graveyard, and general rant receptacle."
 
 [languages]
   [languages.en]
     languageName = "English"
     title = "FatherFireball"
     subtitle = ""
-    owner = ""
-    keywords = ""
+    owner = "FatherFireball"
+    keywords = ["streaming", "dungeons and dragons", "d&d", "twitch", "youtube"]
     copyright = ""
     menuMore = "Show more"
     readMore = "Read more"
