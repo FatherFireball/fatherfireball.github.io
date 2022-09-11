@@ -1,6 +1,6 @@
 baseurl = "https://www.fatherfireball.com"
 languageCode = "en-us"
-theme = "terminal"
+theme = ["hugo-notice", "terminal"]
 paginate = 5
 
 [params]

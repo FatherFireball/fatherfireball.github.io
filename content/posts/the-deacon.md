@@ -37,3 +37,4 @@ Welcome to our first character inspiration post!
 
 based on papa emeritas
 deacon that raises the dead, very flashy in appearance
+school of necromancy wizard or death domain cleric

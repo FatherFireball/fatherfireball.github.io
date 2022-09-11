@@ -15,7 +15,5 @@ draft = false
 
 | Date | Link | Game |
 |---|---|---|
-| Sep 5 | [YouTube VOD](https://youtu.be/091qsIMDYw0) | Tunic |
-| Sep 7 | [YouTube](https://www.youtube.com/channel/UCFpkf43dvLwBdA020ZdSK4g/) | Tunic |
-| Sep 8 | [Twitch](https://www.twitch.tv/fatherfireball) | Sekiro |
-| Sep 9 | [Twitch](https://www.twitch.tv/fatherfireball) | Cult of the Lamb |
+| Sep 12 | [YouTube](https://youtu.be/mGXemC4qjPo) | Tunic |
+| Sep 14 | [Twitch](https://www.twitch.tv/fatherfireball) | The Messenger |
