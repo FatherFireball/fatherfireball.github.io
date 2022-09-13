@@ -11,9 +11,10 @@ hideComments = false
 draft = false
 +++
 
-# >> WEEK OF SEP 05, 2022
+# >> WEEK OF SEP 12, 2022
 
 | Date | Link | Game |
 |---|---|---|
 | Sep 12 | [YouTube](https://youtu.be/mGXemC4qjPo) | Tunic |
 | Sep 14 | [Twitch](https://www.twitch.tv/fatherfireball) | The Messenger |
+| Sep 17 | [Twitch](https://www.twitch.tv/fatherfireball) | Sekiro: Shadows Die Twice |
